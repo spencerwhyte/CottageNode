@@ -1,0 +1,311 @@
+Cmp-Mod V01 Created by Cvpcb (2015-05-05 BZR 5645)-product   date = Wednesday, September 02, 2015 'pmt' 10:45:05 pm
+
+BeginCmp
+TimeStamp = /55772784;
+Reference = C1;
+ValeurCmp = 47uF;
+IdModule  = Capacitors_SMD:C_1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /557722E7;
+Reference = C2;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5577258A;
+Reference = C3;
+ValeurCmp = 22uF;
+IdModule  = Capacitors_SMD:C_1210;
+EndCmp
+
+BeginCmp
+TimeStamp = /55773F63;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55774469;
+Reference = C5;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55773FE5;
+Reference = C6;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /557744AD;
+Reference = C7;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E122EB;
+Reference = C8;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5577263B;
+Reference = CON1;
+ValeurCmp = BARREL_JACK;
+IdModule  = Connect:BARREL_JACK;
+EndCmp
+
+BeginCmp
+TimeStamp = /55772C40;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5579C20E;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5579D8E3;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E27FFD;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E28116;
+Reference = D5;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /557723AC;
+Reference = L1;
+ValeurCmp = 2.2uH;
+IdModule  = spencerkicadfootprints:SRN8040-2R2Y;
+EndCmp
+
+BeginCmp
+TimeStamp = /5577984F;
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = Connect:AK300-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55779EF2;
+Reference = P2;
+ValeurCmp = CONN_01X04;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /5577B03A;
+Reference = P3;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5577B091;
+Reference = P4;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5577CC82;
+Reference = P5;
+ValeurCmp = CONN_01X06;
+IdModule  = spencerkicadfootprints:693043020611;
+EndCmp
+
+BeginCmp
+TimeStamp = /5577D6AB;
+Reference = P8;
+ValeurCmp = CONN_01X02;
+IdModule  = spencerkicadfootprints:SMA_Right;
+EndCmp
+
+BeginCmp
+TimeStamp = /5577C24A;
+Reference = P9;
+ValeurCmp = CONN_01X02;
+IdModule  = spencerkicadfootprints:SMA_Right;
+EndCmp
+
+BeginCmp
+TimeStamp = /5579EE15;
+Reference = P10;
+ValeurCmp = CONN_01X02;
+IdModule  = Connect:AK300-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5579EF34;
+Reference = P11;
+ValeurCmp = CONN_01X02;
+IdModule  = Connect:AK300-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /55777047;
+Reference = Q1;
+ValeurCmp = FET_N;
+IdModule  = SMD_Packages:DPAK-3_GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /557738AB;
+Reference = Q2;
+ValeurCmp = BSS138;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5579C21A;
+Reference = Q3;
+ValeurCmp = BSS138;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5579EE09;
+Reference = Q4;
+ValeurCmp = FET_N;
+IdModule  = SMD_Packages:DPAK-3_GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /5579F0F9;
+Reference = Q5;
+ValeurCmp = FET_N;
+IdModule  = SMD_Packages:DPAK-3_GDS;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E28009;
+Reference = Q6;
+ValeurCmp = BSS138;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E28122;
+Reference = Q7;
+ValeurCmp = BSS138;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23;
+EndCmp
+
+BeginCmp
+TimeStamp = /5577243B;
+Reference = R1;
+ValeurCmp = 43.2k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /55772503;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E28015;
+Reference = R3;
+ValeurCmp = 200;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /557764FB;
+Reference = R4;
+ValeurCmp = 10k;
+IdModule  = Resistors_SMD:R_0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /55773B4C;
+Reference = R5;
+ValeurCmp = 200;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5579C226;
+Reference = R6;
+ValeurCmp = 200;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5579D9FD;
+Reference = R7;
+ValeurCmp = 200;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E2812E;
+Reference = R8;
+ValeurCmp = 200;
+IdModule  = Resistors_SMD:R_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /557721D4;
+Reference = U1;
+ValeurCmp = TPS563209;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /55775728;
+Reference = U2;
+ValeurCmp = MSP430G2553IPW20;
+IdModule  = SMD_Packages:SSOP-20;
+EndCmp
+
+BeginCmp
+TimeStamp = /55772023;
+Reference = U3;
+ValeurCmp = SIM5360;
+IdModule  = spencerkicadfootprints:SIM5360;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E1090C;
+Reference = U4;
+ValeurCmp = PAM3101DAB330;
+IdModule  = Housings_SOT-23_SOT-143_TSOT-6:SOT-23-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E100F3;
+Reference = U5;
+ValeurCmp = TXS0102DCTR;
+IdModule  = Housings_SSOP:TSSOP-8_3x3mm_Pitch0.65mm;
+EndCmp
+
+EndListe
